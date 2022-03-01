@@ -2,7 +2,6 @@ using AutoMapper;
 using Core.DTOs;
 using Core.Interfaces;
 using Core.Model;
-using Infrastructure.Data;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
